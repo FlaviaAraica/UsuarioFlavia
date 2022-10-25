@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/007/278/160/small/polygon-geometric-design-abstract-technology-concept-abstract-blue-light-background-vector.jpg);
+}
+
+h1 {
+    -webkit-text-stroke: white 0.25px;
+    /*font-family: arial;*/
+    color: #0d6efd;
+}
+
+h4 {
+    /*-webkit-text-stroke: white 0.25px;*/
+    /*font-family: arial;*/
+    color: #0d6efd;
+}
+
+label{
+    color: white;
+}
+
+dl {
+    color: white;
+}
